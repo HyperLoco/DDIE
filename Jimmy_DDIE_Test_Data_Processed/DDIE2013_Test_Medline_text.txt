@@ -1,0 +1,451 @@
+in the present study, we tested whether the highly specific metabotropic glutamate receptor 5 antagonist, drug, reduces dopaminergic and noradrenergic neuronal loss in monkeys rendered parkinsonian by chronic treatment with low doses of drug.
+weekly intramuscular drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (drug/drug versus drug/vehicle).
+weekly intramuscular drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (drug/other drug versus drug/vehicle).
+weekly intramuscular drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (drug/other drug versus drug/vehicle).
+weekly intramuscular drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (drug/other drug versus drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/drug versus other drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/drug versus other drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/drug versus other drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/other drug versus other drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/other drug versus other drug/vehicle).
+weekly intramuscular other drug injections (0.2-0.5 mg/kg body weight), in combination with daily administration of other drug or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (other drug/other drug versus other drug/vehicle).
+after 21 weeks of drug treatment, all drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the drug/other drug-treated monkeys were significantly affected.
+after 21 weeks of drug treatment, all drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the drug/other drug-treated monkeys were significantly affected.
+after 21 weeks of drug treatment, all drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the drug/drug-treated monkeys were significantly affected.
+after 21 weeks of other drug treatment, all other drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the other drug/other drug-treated monkeys were significantly affected.
+after 21 weeks of other drug treatment, all other drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the other drug/drug-treated monkeys were significantly affected.
+after 21 weeks of other drug treatment, all other drug/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the other drug/drug-treated monkeys were significantly affected.
+these behavioural observations were consistent with in vivo positron emission tomography dopamine transporter imaging data, and with post-mortem stereological counts of midbrain dopaminergic neurons, as well as striatal intensity measurements of dopamine transporter and tyrosine hydroxylase immunoreactivity, which were all significantly higher in drug/drug-treated animals than in drug/vehicle-treated monkeys.
+these behavioural observations were consistent with in vivo positron emission tomography dopamine transporter imaging data, and with post-mortem stereological counts of midbrain dopaminergic neurons, as well as striatal intensity measurements of dopamine transporter and tyrosine hydroxylase immunoreactivity, which were all significantly higher in drug/other drug-treated animals than in drug/vehicle-treated monkeys.
+these behavioural observations were consistent with in vivo positron emission tomography dopamine transporter imaging data, and with post-mortem stereological counts of midbrain dopaminergic neurons, as well as striatal intensity measurements of dopamine transporter and tyrosine hydroxylase immunoreactivity, which were all significantly higher in other drug/drug-treated animals than in other drug/vehicle-treated monkeys.
+the drug treatment also had a significant effect on the drug-induced loss of norepinephrine neurons in the locus coeruleus and adjoining a5 and a7 noradrenaline cell groups.
+in drug/vehicle-treated animals, almost 40% loss of tyrosine hydroxylase-positive norepinephrine neurons was found in locus coeruleus/a5/a7 noradrenaline cell groups, whereas the extent of neuronal loss was lower than 15% of control values in drug/other drug-treated monkeys.
+in drug/vehicle-treated animals, almost 40% loss of tyrosine hydroxylase-positive norepinephrine neurons was found in locus coeruleus/a5/a7 noradrenaline cell groups, whereas the extent of neuronal loss was lower than 15% of control values in drug/drug-treated monkeys.
+in other drug/vehicle-treated animals, almost 40% loss of tyrosine hydroxylase-positive norepinephrine neurons was found in locus coeruleus/a5/a7 noradrenaline cell groups, whereas the extent of neuronal loss was lower than 15% of control values in other drug/drug-treated monkeys.
+our data demonstrate that chronic treatment with the metabotropic glutamate receptor 5 antagonist, drug, significantly reduces drug toxicity towards dopaminergic and noradrenergic cell groups in non-human primates.
+effect of drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of drug (other drug), an orally active other drug.
+effect of drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of other drug (drug), an orally active other drug.
+effect of drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of other drug (other drug), an orally active drug.
+effect of other drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of drug (drug), an orally active other drug.
+effect of other drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of drug (other drug), an orally active drug.
+effect of other drug-mediated cyp3a4 inhibition on clinical pharmacokinetics of other drug (drug), an orally active drug.
+this study evaluated the effect of a potent cyp3a inhibitor, drug, on the pharmacokinetics and safety of drug.
+on day 8, a single drug dose was co-administered with drug.
+in the presence of drug, there was 1.6- and 1.8-fold increase in c (max) and auc of drug, respectively.
+co-administration of drug with cyp3a inhibitors is feasible as the observed increase in drug pk parameters was not considered clinically relevant.
+considering the variability in exposure following enzyme inhibition and the fact that chronic dosing of drug was not studied with cyp3a inhibitors, close monitoring of drug-related adverse events is necessary.
+interaction study of drug and drug with co-administered drugs.
+drug and drug are other drug used in treating urinary and respiratory tract infections.
+drug and other drug are drug used in treating urinary and respiratory tract infections.
+other drug and drug are drug used in treating urinary and respiratory tract infections.
+being drug and lomefloxacin drug the interaction study of was carried out with other drug, other drug, other drug and other drug.
+being drug and lomefloxacin other drug the interaction study of was carried out with drug, other drug, other drug and other drug.
+being drug and lomefloxacin other drug the interaction study of was carried out with other drug, drug, other drug and other drug.
+being drug and lomefloxacin other drug the interaction study of was carried out with other drug, other drug, drug and other drug.
+being drug and lomefloxacin other drug the interaction study of was carried out with other drug, other drug, other drug and drug.
+being other drug and lomefloxacin drug the interaction study of was carried out with drug, other drug, other drug and other drug.
+being other drug and lomefloxacin drug the interaction study of was carried out with other drug, drug, other drug and other drug.
+being other drug and lomefloxacin drug the interaction study of was carried out with other drug, other drug, drug and other drug.
+being other drug and lomefloxacin drug the interaction study of was carried out with other drug, other drug, other drug and drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with drug, drug, other drug and other drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with drug, other drug, drug and other drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with drug, other drug, other drug and drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with other drug, drug, drug and other drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with other drug, drug, other drug and drug.
+being other drug and lomefloxacin other drug the interaction study of was carried out with other drug, other drug, drug and drug.
+the response of drug and drug after interaction with co-administered drugs at different conditions and temperature were noted using a shimadzu hplc system with pda detector.
+drug and drug reacts faster with other drug and other drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+drug and other drug reacts faster with drug and other drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+drug and other drug reacts faster with other drug and drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+drug and other drug reacts faster with other drug and other drug in acidic media whereas with drug in basic media and other drug in neutral media.
+drug and other drug reacts faster with other drug and other drug in acidic media whereas with other drug in basic media and drug in neutral media.
+other drug and drug reacts faster with drug and other drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+other drug and drug reacts faster with other drug and drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+other drug and drug reacts faster with other drug and other drug in acidic media whereas with drug in basic media and other drug in neutral media.
+other drug and drug reacts faster with other drug and other drug in acidic media whereas with other drug in basic media and drug in neutral media.
+other drug and other drug reacts faster with drug and drug in acidic media whereas with other drug in basic media and other drug in neutral media.
+other drug and other drug reacts faster with drug and other drug in acidic media whereas with drug in basic media and other drug in neutral media.
+other drug and other drug reacts faster with drug and other drug in acidic media whereas with other drug in basic media and drug in neutral media.
+other drug and other drug reacts faster with other drug and drug in acidic media whereas with drug in basic media and other drug in neutral media.
+other drug and other drug reacts faster with other drug and drug in acidic media whereas with other drug in basic media and drug in neutral media.
+other drug and other drug reacts faster with other drug and other drug in acidic media whereas with drug in basic media and drug in neutral media.
+exposure to oral drug is unaffected by drug but greatly increased by other drug.
+exposure to oral drug is unaffected by other drug but greatly increased by drug.
+exposure to oral other drug is unaffected by drug but greatly increased by drug.
+this study examined drug-drug interactions of oral drug with the cytochrome p450 (cyp) 2b6 inhibitor drug and the cyp3a inhibitor other drug.
+this study examined drug-drug interactions of oral drug with the cytochrome p450 (cyp) 2b6 inhibitor other drug and the cyp3a inhibitor drug.
+this study examined drug-drug interactions of oral other drug with the cytochrome p450 (cyp) 2b6 inhibitor drug and the cyp3a inhibitor drug.
+in this randomized, blinded, crossover study, 11 healthy volunteers ingested 0.2 mg/kg drug after pretreatments with oral drug (250 mg twice daily), other drug (200 mg once daily), or placebo in 6-day treatment periods at intervals of 4 weeks.
+in this randomized, blinded, crossover study, 11 healthy volunteers ingested 0.2 mg/kg drug after pretreatments with oral other drug (250 mg twice daily), drug (200 mg once daily), or placebo in 6-day treatment periods at intervals of 4 weeks.
+in this randomized, blinded, crossover study, 11 healthy volunteers ingested 0.2 mg/kg other drug after pretreatments with oral drug (250 mg twice daily), drug (200 mg once daily), or placebo in 6-day treatment periods at intervals of 4 weeks.
+drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral drug by 2.4-fold, whereas other drug treatment did not increase the exposure to s-drug.
+drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral other drug by 2.4-fold, whereas drug treatment did not increase the exposure to s-other drug.
+drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral other drug by 2.4-fold, whereas other drug treatment did not increase the exposure to s-other drug.
+other drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral drug by 2.4-fold, whereas drug treatment did not increase the exposure to s-drug.
+other drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral drug by 2.4-fold, whereas other drug treatment did not increase the exposure to s-drug.
+other drug treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (auc(0-   )) of oral other drug by 2.4-fold, whereas drug treatment did not increase the exposure to s-other drug.
+the ratio of drug auc(0-   ) to drug auc(0-   ) was significantly decreased in the other drug (p &lt; 0.001) and other drug phases (p = 0.006) as compared to placebo.
+the ratio of drug auc(0-   ) to other drug auc(0-   ) was significantly decreased in the drug (p &lt; 0.001) and other drug phases (p = 0.006) as compared to placebo.
+the ratio of drug auc(0-   ) to other drug auc(0-   ) was significantly decreased in the other drug (p &lt; 0.001) and drug phases (p = 0.006) as compared to placebo.
+the ratio of other drug auc(0-   ) to drug auc(0-   ) was significantly decreased in the drug (p &lt; 0.001) and other drug phases (p = 0.006) as compared to placebo.
+the ratio of other drug auc(0-   ) to drug auc(0-   ) was significantly decreased in the other drug (p &lt; 0.001) and drug phases (p = 0.006) as compared to placebo.
+the ratio of other drug auc(0-   ) to other drug auc(0-   ) was significantly decreased in the drug (p &lt; 0.001) and drug phases (p = 0.006) as compared to placebo.
+in the drug and drug phases, the areas under the effect-time curves (self-reported drowsiness and performance) were significantly higher than those in the placebo phase (p < 0.05).
+the findings suggest that the dosage of drug should be reduced in patients receiving drug.
+the drug (drug), one of s-adenosylhomocysteine (adohcy) hydrolase inhibitors, has shown antitumor activities in a broad range of solid tumors and acute myeloid leukemia.
+we also found that bcl-2 was overexpressed in drug insensitive cells, and cotreatment with drug and other drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of drug insensitive mm cells.
+we also found that bcl-2 was overexpressed in drug insensitive cells, and cotreatment with drug and drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of drug insensitive mm cells.
+we also found that bcl-2 was overexpressed in drug insensitive cells, and cotreatment with drug and other drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of drug insensitive mm cells.
+we also found that bcl-2 was overexpressed in other drug insensitive cells, and cotreatment with other drug and drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of other drug insensitive mm cells.
+we also found that bcl-2 was overexpressed in other drug insensitive cells, and cotreatment with other drug and other drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of other drug insensitive mm cells.
+we also found that bcl-2 was overexpressed in other drug insensitive cells, and cotreatment with other drug and drug, a bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of other drug insensitive mm cells.
+in addition, drug insensitivity might be associated with overexpression of bcl-2, and the combination of drug and drug could synergistically induced apoptosis.
+in addition, drug insensitivity might be associated with overexpression of bcl-2, and the combination of other drug and drug could synergistically induced apoptosis.
+in addition, other drug insensitivity might be associated with overexpression of bcl-2, and the combination of drug and other drug could synergistically induced apoptosis.
+drug   failure in an hiv-positive woman on drug therapy resulting in two ectopic pregnancies.
+we present an interesting case of an hiv-positive woman on drug therapy having tubal pregnancies on two separate occasions with drug in place.
+drug-drug interaction and associated gastrointestinal bleeding risk in a case-control study.
+we sought to evaluate whether initiation of an drug increases the risk of hospitalization for gastrointestinal bleeding in drug users.
+in total, 430,455 drug users contributed 407,370 person-years of drug use.
+drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of drug (or   =   1.73 [95% ci, 1.25-2.38]), drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), drug (or   =   1.63 [95% ci, 1.11-2.38]), drug (or   =   1.64 [95% ci, 1.27-2.12]), other drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), drug (or   =   1.63 [95% ci, 1.11-2.38]), other drug (or   =   1.64 [95% ci, 1.27-2.12]), drug (or   =   1.47 [95% ci, 1.02-2.11]).
+other drug users had an increased odds ratio of gastrointestinal bleeding upon initiation of other drug (or   =   1.73 [95% ci, 1.25-2.38]), other drug (or   =   1.63 [95% ci, 1.11-2.38]), drug (or   =   1.64 [95% ci, 1.27-2.12]), drug (or   =   1.47 [95% ci, 1.02-2.11]).
+also drug, which is not believed to interact with drug, increased the risk of gi bleeding (or   =   1.75 [95% ci, 1.30-2.35]).
+drug users who initiated drug, other drug, other drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+drug users who initiated other drug, drug, other drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+drug users who initiated other drug, other drug, drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+drug users who initiated other drug, other drug, other drug, drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+drug users who initiated other drug, other drug, other drug, other drug, or drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated drug, drug, other drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated drug, other drug, drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated drug, other drug, other drug, drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated drug, other drug, other drug, other drug, or drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, drug, drug, other drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, drug, other drug, drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, drug, other drug, other drug, or drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, other drug, drug, drug, or other drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, other drug, drug, other drug, or drug had an increased risk of hospitalization for gastrointestinal bleeding.
+other drug users who initiated other drug, other drug, other drug, drug, or drug had an increased risk of hospitalization for gastrointestinal bleeding.
+the incubations were performed in the absence and presence of the non-specific cyp inhibitor, drug (drug) and isoform-specific inhibitors.
+drug decreased the toxicity of drug, increased exposure to parent compound, and decreased metabolite levels in a dose-dependent manner.
+of the isoform-specific cyp inhibitors tested for an effect on the drug metabolite profile, only drug was noticeably effective, indicating a role of cyps 2a6, 2c9, 2cl9, and 2e1.
+with respect to toxicity, the order of cyp inhibitor effectiveness was drug>drug~other drug>other drug.
+with respect to toxicity, the order of cyp inhibitor effectiveness was drug>other drug~drug>other drug.
+with respect to toxicity, the order of cyp inhibitor effectiveness was drug>other drug~other drug>drug.
+with respect to toxicity, the order of cyp inhibitor effectiveness was other drug>drug~drug>other drug.
+with respect to toxicity, the order of cyp inhibitor effectiveness was other drug>drug~other drug>drug.
+with respect to toxicity, the order of cyp inhibitor effectiveness was other drug>other drug~drug>drug.
+drug and drug had no effect, while other drug appeared to augment other drug toxicity.
+drug and other drug had no effect, while drug appeared to augment other drug toxicity.
+drug and other drug had no effect, while other drug appeared to augment drug toxicity.
+other drug and drug had no effect, while drug appeared to augment other drug toxicity.
+other drug and drug had no effect, while other drug appeared to augment drug toxicity.
+other drug and other drug had no effect, while drug appeared to augment drug toxicity.
+these results suggest that rat liver slices do not reproduce the reported in vivo biotransformation of drug and therefore may not be an appropriate model for drug metabolism.
+to determine whether the co-injection of extracellular matrix degrading enzymes improves retinal transduction following intravitreal delivery of drug (drug).
+drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including drug, other drug, other drug, or other drug.
+drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, drug, other drug, or other drug.
+drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, other drug, drug, or other drug.
+drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, other drug, other drug, or drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including drug, drug, other drug, or other drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including drug, other drug, drug, or other drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including drug, other drug, other drug, or drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, drug, drug, or other drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, drug, other drug, or drug.
+other drug containing cdna encoding enhanced green fluorescent protein (gfp), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including other drug, other drug, drug, or drug.
+the addition of drug or drug greatly enhanced transduction of the retinal ganglion cell layer and increased the depth of transduction into the outer retina.
+drug had a limited effect and drug was ineffective.
+electroretinograms survived with higher concentrations of drug and drug than were required for optimal retinal transduction.
+drug-mediated retinal transduction is improved by co-injection of drug or other drug.
+drug-mediated retinal transduction is improved by co-injection of other drug or drug.
+other drug-mediated retinal transduction is improved by co-injection of drug or drug.
+prevention of emergence agitation in seven children receiving low-dose drug and drug total intravenous anesthesia.
+we retrospectively reviewed the records of 7 pediatric oncology patients who received low-dose drug in conjunction with drug for total intravenous anesthesia (tiva) repeatedly for radiation therapy.
+ea signs were observed in all 7 patients in association with drug tiva but did not recur in any of 123 subsequent anesthetics sessions during which low-dose drug was added to drug.
+ea signs were observed in all 7 patients in association with drug tiva but did not recur in any of 123 subsequent anesthetics sessions during which low-dose other drug was added to drug.
+ea signs were observed in all 7 patients in association with other drug tiva but did not recur in any of 123 subsequent anesthetics sessions during which low-dose drug was added to other drug.
+based on this experience, we suggest that low-dose drug added to drug may be associated with prevention of ea in children with a history of ea with drug tiva.
+based on this experience, we suggest that low-dose drug added to other drug may be associated with prevention of ea in children with a history of ea with other drug tiva.
+based on this experience, we suggest that low-dose other drug added to drug may be associated with prevention of ea in children with a history of ea with drug tiva.
+drug, an drug, is the standard hormone treatment for breast cancer.
+drug and drug reduce the plasma concentration of other drug by about 50%.
+drug and other drug reduce the plasma concentration of drug by about 50%.
+other drug and drug reduce the plasma concentration of drug by about 50%.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with drug for breast cancer, especially drug such as other drug and other drug.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with drug for breast cancer, especially other drug such as drug and other drug.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with drug for breast cancer, especially other drug such as other drug and drug.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with other drug for breast cancer, especially drug such as drug and other drug.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with other drug for breast cancer, especially drug such as other drug and drug.
+it is better to avoid prescribing isoenzyme cyp 2d6 inhibitors to women treated with other drug for breast cancer, especially other drug such as drug and drug.
+depression does not always require drug therapy, and drug have no proven preventive impact on hot flushes linked to the menopause.
+if in certain cases, an drug is considered necessary, it may be advisable to replace drug with other drug.
+if in certain cases, an drug is considered necessary, it may be advisable to replace other drug with drug.
+if in certain cases, an other drug is considered necessary, it may be advisable to replace drug with drug.
+drug locomotor sensitization and conditioned place preference in adolescent male and female rats neonatally treated with drug.
+the objective was to analyze the effects of neonatal drug treatment on effects of drug in adolescent rats using locomotor sensitization and conditioned place preference procedures.
+in female rats, neonatal drug treatment enhanced drug locomotor sensitization compared with drug-free controls sensitized to drug.
+in female rats, neonatal drug treatment enhanced other drug locomotor sensitization compared with drug-free controls sensitized to other drug.
+in female rats, neonatal drug treatment enhanced other drug locomotor sensitization compared with drug-free controls sensitized to other drug.
+in female rats, neonatal other drug treatment enhanced drug locomotor sensitization compared with other drug-free controls sensitized to drug.
+in female rats, neonatal other drug treatment enhanced drug locomotor sensitization compared with other drug-free controls sensitized to drug.
+in female rats, neonatal other drug treatment enhanced other drug locomotor sensitization compared with other drug-free controls sensitized to other drug.
+male rats demonstrated sensitization to drug, although this was muted compared with female rats, and were unaffected by neonatal drug.
+rats treated with neonatal drug enhanced time spent in the drug-paired context compared with drug-free controls conditioned with drug, but only female controls conditioned with drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal drug enhanced time spent in the other drug-paired context compared with drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal drug enhanced time spent in the other drug-paired context compared with drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal drug enhanced time spent in the other drug-paired context compared with drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the drug-paired context compared with other drug-free controls conditioned with drug, but only female controls conditioned with drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the drug-paired context compared with other drug-free controls conditioned with drug, but only female controls conditioned with drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the drug-paired context compared with other drug-free controls conditioned with drug, but only female controls conditioned with drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the other drug-paired context compared with other drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the other drug-paired context compared with other drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+rats treated with neonatal other drug enhanced time spent in the other drug-paired context compared with other drug-free controls conditioned with other drug, but only female controls conditioned with other drug spent more time in the drug-paired context compared with saline-treated controls.
+in vivo cyp3a activity is significantly lower in drug-treated as compared with drug-treated renal allograft recipients.
+in vitro studies have identified drug and drug as cyp3a inhibitors.
+systemic and apparent oral drug clearance were 24% (269    73 vs. 354    102  ml/min, p = 0.022) and 31% (479    190 vs. 688    265  ml/min, p = 0.013), respectively, lower in drug-treated patients (n = 20) than in matched other drug-treated patients (n = 20).
+systemic and apparent oral drug clearance were 24% (269    73 vs. 354    102  ml/min, p = 0.022) and 31% (479    190 vs. 688    265  ml/min, p = 0.013), respectively, lower in other drug-treated patients (n = 20) than in matched drug-treated patients (n = 20).
+systemic and apparent oral other drug clearance were 24% (269    73 vs. 354    102  ml/min, p = 0.022) and 31% (479    190 vs. 688    265  ml/min, p = 0.013), respectively, lower in drug-treated patients (n = 20) than in matched drug-treated patients (n = 20).
+the latter displayed drug clearances similar to those in two larger cohorts of nonmatched drug-treated patients (n = 58 and n = 80) and to those receiving a other drug-free regimen (n = 6).
+the latter displayed drug clearances similar to those in two larger cohorts of nonmatched other drug-treated patients (n = 58 and n = 80) and to those receiving a drug-free regimen (n = 6).
+the latter displayed other drug clearances similar to those in two larger cohorts of nonmatched drug-treated patients (n = 58 and n = 80) and to those receiving a drug-free regimen (n = 6).
+this implies that in vivo hepatic and first-pass cyp3a activities are significantly lower in patients receiving drug than in those receiving drug, indicating that, at the doses generally used in clinical practice, drug is the stronger of the two with respect to cyp3a inhibition.
+this implies that in vivo hepatic and first-pass cyp3a activities are significantly lower in patients receiving drug than in those receiving other drug, indicating that, at the doses generally used in clinical practice, drug is the stronger of the two with respect to cyp3a inhibition.
+this implies that in vivo hepatic and first-pass cyp3a activities are significantly lower in patients receiving other drug than in those receiving drug, indicating that, at the doses generally used in clinical practice, other drug is the stronger of the two with respect to cyp3a inhibition.
+improved parathyroid hormone control by drug is associated with reduction in drug requirement in patients with end-stage renal disease.
+uncontrolled hy-per-parathyroidism causes bone marrow fibrosis, leading to drug (drug) resistance.
+medical treatment with drug is effective in reducing plasma parathyroid hormone (pth) levels, but its effect on drug dosing is unknown.
+the primary objective of the study was to ascertain the difference in drug responsiveness before and after 12 months of drug therapy.
+reduction of pth by drug is associated with a decrease in drug requirement.
+interaction of drug with different drug is antagonistic in breast but not in other cancer cells.
+this study investigates the ability of drug to sensitize cells from different origins to several drug.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to drug, drug, other drug and other drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to drug, other drug, drug and other drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to drug, other drug, other drug and drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to drug, other drug, other drug and other drug   drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, drug, drug and other drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, drug, other drug and drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, drug, other drug and other drug   drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, other drug, drug and drug   other drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, other drug, drug and other drug   drug following different incubation schedules were analyzed.
+the sensitivity, cell cycle, apoptosis and dna damage of five different cancer cell lines (hela, hct116, hepg2, mcf7 and u251) to other drug, other drug, other drug and drug   drug following different incubation schedules were analyzed.
+we found antagonism between drug and the four drugs in the breast cancer cells mcf7 following all incubation schedules and between drug and other drug in all cell lines except for two combinations in hct116 cells.
+we found antagonism between drug and the four drugs in the breast cancer cells mcf7 following all incubation schedules and between drug and drug in all cell lines except for two combinations in hct116 cells.
+we found antagonism between other drug and the four drugs in the breast cancer cells mcf7 following all incubation schedules and between other drug and drug in all cell lines except for two combinations in hct116 cells.
+these results, if confirmed in-vivo, indicate that drug is not a suitable chemosensitizer for breast cancer or with drug for other cancers.
+[interaction between drug and drug].
+the drug interaction between drug and drug has been the subject of much study in recent years.
+contradictory results regarding the effect of drug on platelet reactivity and on clinical outcome in drug-treated patients have been reported in literature.
+concomitant use of drug and drug was found to decrease the exposure (auc) to drug's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by drug of cyp2c19, a cytochrome p450 (cyp) enzyme.
+concomitant use of drug and other drug was found to decrease the exposure (auc) to other drug's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by drug of cyp2c19, a cytochrome p450 (cyp) enzyme.
+concomitant use of other drug and drug was found to decrease the exposure (auc) to drug's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by other drug of cyp2c19, a cytochrome p450 (cyp) enzyme.
+drug has a much weaker effect on drug's pharmacokinetics and on platelet reactivity during concomitant use.
+the influence of the other drug when used simultaneously with drug has not yet been investigated in adequately randomized studies.
+regulatory agencies state that the combination of drug and the cyp2c19 inhibitors drug and esdrug should be avoided.
+regulatory agencies state that the combination of drug and the cyp2c19 inhibitors other drug and esother drug should be avoided.
+regulatory agencies state that the combination of other drug and the cyp2c19 inhibitors drug and esdrug should be avoided.
+to date, there is no conclusive evidence of a clinically-relevant interaction between any of the drug and drug.
+in vitro activity of drug combined with drug against clinical isolates of other drug-resistant staphylococcus aureus.
+in vitro activity of drug combined with other drug against clinical isolates of drug-resistant staphylococcus aureus.
+in vitro activity of other drug combined with drug against clinical isolates of drug-resistant staphylococcus aureus.
+this study aimed to evaluate the in vitro activity of drug combined with drug against isolates of other drug-resistant staphylococcus aureus (mrsa).
+this study aimed to evaluate the in vitro activity of drug combined with other drug against isolates of drug-resistant staphylococcus aureus (mrsa).
+this study aimed to evaluate the in vitro activity of other drug combined with drug against isolates of drug-resistant staphylococcus aureus (mrsa).
+the susceptibility results for drug and drug were interpreted according to the most relevant criteria.
+the combination of drug and drug can be synergistic against mrsa.
+the authors report the case of an infant with confirmed congenital hypothyroidism on drug who experienced a possible drug interaction with drug.
+questioning revealed the child was taking drug drops before feeds while on drug.
+drug interaction of drug with drug has not been reported previously and is not listed in the british national formulary for children.
+drug does not inhibit the absorption of 5 milligrams of nonheme or other drug at doses less than 800 milligrams in nonpregnant women.
+drug does not inhibit the absorption of 5 milligrams of nonheme or drug at doses less than 800 milligrams in nonpregnant women.
+other drug does not inhibit the absorption of 5 milligrams of nonheme or drug at doses less than 800 milligrams in nonpregnant women.
+drug is the only known component in the diet that may affect absorption of both nonheme and other drug.
+drug is the only known component in the diet that may affect absorption of both nonheme and drug.
+other drug is the only known component in the diet that may affect absorption of both nonheme and drug.
+however, the evidence for a drug effect on drug absorption mainly comes from studies that did not isolate the effect of drug from that of other dietary components, because it was detected in single-meal studies.
+however, the evidence for a drug effect on other drug absorption mainly comes from studies that did not isolate the effect of drug from that of other dietary components, because it was detected in single-meal studies.
+however, the evidence for a other drug effect on drug absorption mainly comes from studies that did not isolate the effect of other drug from that of other dietary components, because it was detected in single-meal studies.
+our objective was to establish potential effects of drug on absorption of nonheme and other drug and the dose response for this effect in the absence of a meal.
+our objective was to establish potential effects of drug on absorption of nonheme and drug and the dose response for this effect in the absence of a meal.
+our objective was to establish potential effects of other drug on absorption of nonheme and drug and the dose response for this effect in the absence of a meal.
+we evaluated the effects of drug doses between 200 and 1500 mg on absorption of 5 mg drug (as other drug).
+we evaluated the effects of drug doses between 200 and 1500 mg on absorption of 5 mg other drug (as drug).
+we evaluated the effects of other drug doses between 200 and 1500 mg on absorption of 5 mg drug (as drug).
+we also evaluated the effects of drug doses between 200 and 800 mg on absorption of 5 mg drug [as concentrated rbc (crbc)].
+drug was administered as drug chloride in all studies and other drug were ingested on an empty stomach.
+drug was administered as drug chloride in all studies and drug were ingested on an empty stomach.
+other drug was administered as other drug chloride in all studies and drug were ingested on an empty stomach.
+drug doses   1000 mg diminished drug absorption by an average of 49.6%.
+a drug dose of 800 mg diminished absorption of 5 mg drug by 37.7%.
+in conclusion, we demonstrated an isolated effect of drug (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and heme (as crbc) iron.
+in conclusion, we demonstrated an isolated effect of drug (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and heme (as crbc) iron.
+in conclusion, we demonstrated an isolated effect of other drug (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and heme (as crbc) iron.
+synergistic interaction between drug and drug is sequence dependent in human non-small lung cancer with egfr tkis-resistant mutation.
+this study was aimed to investigate the efficacy of single use of drug and that of concurrent or sequential administration of drug and other drug in nsclc cell lines that are resistant to egfr tkis.
+this study was aimed to investigate the efficacy of single use of drug and that of concurrent or sequential administration of drug and drug in nsclc cell lines that are resistant to egfr tkis.
+this study was aimed to investigate the efficacy of single use of other drug and that of concurrent or sequential administration of other drug and drug in nsclc cell lines that are resistant to egfr tkis.
+nsclc cell lines with egfr t790m mutation and k-ras mutation were exposed to either drug or drug or both based on various sequential administrations.
+drug exhibited dose-dependent growth inhibition in nsclc cell lines and arrested cell cycle at g1 phase, whereas drug arrested at s phase.
+although single or concurrent use of drug and drug has some anti-proliferative effects, the sequential administrations of both drugs remarkably enhanced anti-tumor activity.
+when cells were exposed to drug followed by drug, synergism was observed.
+the molecular basis of this synergism is that the signaling pathways that were initially activated by drug exposure were efficiently suppressed by the subsequent exposure to drug.
+drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of drug followed by drug is superior to drug followed by drug and concurrent administration.
+drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by drug is superior to drug followed by other drug and concurrent administration.
+drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by drug is superior to drug followed by other drug and concurrent administration.
+drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by drug is superior to drug followed by other drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of drug followed by other drug is superior to other drug followed by drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of drug followed by other drug is superior to other drug followed by drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of drug followed by other drug is superior to other drug followed by drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by other drug is superior to other drug followed by other drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by other drug is superior to other drug followed by other drug and concurrent administration.
+other drug as a single agent exhibits anti-proliferative effects in vitro in nsclc cell lines with egfr t790m and k-ras mutations but the sequential administration of other drug followed by other drug is superior to other drug followed by other drug and concurrent administration.
+distinct synergistic action of drug and drug against pseudomonas aeruginosa.
+results revealed that the strains were resistant to many drugs at high levels, only drug, drug, other drug and other drug showed resistances at comparatively lower levels.
+results revealed that the strains were resistant to many drugs at high levels, only drug, other drug, drug and other drug showed resistances at comparatively lower levels.
+results revealed that the strains were resistant to many drugs at high levels, only drug, other drug, other drug and drug showed resistances at comparatively lower levels.
+results revealed that the strains were resistant to many drugs at high levels, only other drug, drug, drug and other drug showed resistances at comparatively lower levels.
+results revealed that the strains were resistant to many drugs at high levels, only other drug, drug, other drug and drug showed resistances at comparatively lower levels.
+results revealed that the strains were resistant to many drugs at high levels, only other drug, other drug, drug and drug showed resistances at comparatively lower levels.
+distinct and statistically significant synergism was observed between drug and drug by disc diffusion tests when compared with their individual effects.
+synergism was also noted when drug was combined with drug and other drug.
+synergism was also noted when drug was combined with other drug and drug.
+synergism was also noted when other drug was combined with drug and drug.
+protective effect of drug and  drug against the acute toxicity of diepoxybutane to human lymphocytes.
+(ii) drug elicits a significant protective effect on deb induced toxicity, which was potentiated by  drug.
+[influence of drug and drug on mptp-evoked behavior violations in c57bl/6 mice].
+the effects of drug drug [other drug] (10 mg/kg, p. o.)
+the effects of drug other drug [drug] (10 mg/kg, p. o.)
+the effects of other drug drug [drug] (10 mg/kg, p. o.)
+and/or drug drug (100 mg/kg, p. o.), as well as that of neurotoxin other drug (other drug) (4 x 20 mg/kg, i. p.)
+and/or drug other drug (100 mg/kg, p. o.), as well as that of neurotoxin drug (other drug) (4 x 20 mg/kg, i. p.)
+and/or drug other drug (100 mg/kg, p. o.), as well as that of neurotoxin other drug (drug) (4 x 20 mg/kg, i. p.)
+and/or other drug drug (100 mg/kg, p. o.), as well as that of neurotoxin drug (other drug) (4 x 20 mg/kg, i. p.)
+and/or other drug drug (100 mg/kg, p. o.), as well as that of neurotoxin other drug (drug) (4 x 20 mg/kg, i. p.)
+and/or other drug other drug (100 mg/kg, p. o.), as well as that of neurotoxin drug (drug) (4 x 20 mg/kg, i. p.)
+acute administration of drug or drug failed to influence locomotion in mice, while their combination normalized motor activity.
+the role of p27(kip1) in drug-enhanced drug cytotoxicity in human ovarian cancer cells.
+the effect of drug, an inhibitor of src and abl kinases, on drug sensitivity was measured in ovarian cancer cells and hey xenografts.
+the roles of p27(kip1), bcl-2, and cdk1 in apoptosis induced by drug and drug were assessed using a terminal deoxynucleotidyl transferase-mediated dutp nick-end labeling (tunel) assay, sirna knockdown of gene expression, transfection with bcl-2 and cdk1 expression vectors, and flow cytometry.
+hey cells treated with drug plus drug formed fewer colonies than did cells treated with either agent alone.
+treatment of hey xenograft-bearing mice with drug plus drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, drug + drug vs drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + drug vs drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + drug vs drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + drug vs drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+treatment of hey xenograft-bearing mice with other drug plus other drug inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, other drug + other drug vs other drug: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [ci] = 0.44 to 0.62 cm3, p = .014);
+drug + drug vs.
+the sirna knockdown of p27(kip1) decreased drug- and drug-induced apoptosis compared with a negative control sirna (sub-g1 fraction, control sirna vs. p27(kip1) sirna: 42.5% vs. 20.1%, difference = 22.4%, 95% ci = 20.1% to 24.7%, p = .017).
+studies with forced expression and sirna knockdown of bcl-2 and cdk1 suggest that drug-mediated induction of p27(kip1) enhanced drug-induced apoptosis by negatively regulating bcl-2 and cdk1 expression.
+inhibition of src family and abl kinases with either sirnas or drug enhances drug sensitivity of ovarian cancer cells through p27(kip1)-mediated suppression of bcl-2 and cdk1 expression.
+phase i trial of drug and drug in patients with relapsed multiple myeloma: evidence for drug-drug interaction via p-glycoprotein.
+phase i trial of drug and other drug in patients with relapsed multiple myeloma: evidence for drug-other drug interaction via p-glycoprotein.
+phase i trial of drug and other drug in patients with relapsed multiple myeloma: evidence for drug-other drug interaction via p-glycoprotein.
+phase i trial of other drug and drug in patients with relapsed multiple myeloma: evidence for other drug-drug interaction via p-glycoprotein.
+phase i trial of other drug and drug in patients with relapsed multiple myeloma: evidence for other drug-drug interaction via p-glycoprotein.
+phase i trial of other drug and other drug in patients with relapsed multiple myeloma: evidence for other drug-other drug interaction via p-glycoprotein.
+the preclinical combination of drug with the mtor inhibitor drug has displayed synergy in vitro and represents a novel combination in mm.
+enhancement of humoral immune responses to inactivated newcastle disease and drug by oral administration of drug in chickens.
+the objective of this study was to evaluate the effect of oral administration of drug (drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+the objective of this study was to evaluate the effect of oral administration of drug (other drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+the objective of this study was to evaluate the effect of oral administration of drug (other drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+the objective of this study was to evaluate the effect of oral administration of other drug (drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+the objective of this study was to evaluate the effect of oral administration of other drug (drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+the objective of this study was to evaluate the effect of oral administration of other drug (other drug) on the humoral immune responses of chickens to inactivated nd and ai vaccines.
+in experiment 1, oral administration of drug at a dose of 5 mg/kg of bw for 7 d on the immune response in chickens intramuscularly injected with drug was evaluated.
+in experiment 2, the same regimen of drug was administered to chickens inoculated with drug, and an enhanced serum antibody response to ai vaccination was also observed.
+considering the safety of drug, because no adverse effect was found throughout the experiments, drug may be a promising oral adjuvant to improve immunization in poultry.
+interaction of drug and drug, in vitro and in vivo, in human a375 melanoma cells.
+we evaluated mechanisms of interaction between the alkyating agent drug (drug) and the pro-oxidant, other drug, in the human a375 melanoma cell line.
+we evaluated mechanisms of interaction between the alkyating agent drug (other drug) and the pro-oxidant, drug, in the human a375 melanoma cell line.
+we evaluated mechanisms of interaction between the alkyating agent other drug (drug) and the pro-oxidant, drug, in the human a375 melanoma cell line.
+the effect of drug and drug, alone and in combination, was evaluated for growth inhibition (mtt), radiolabeled drug uptake, cellular thiol content (hplc), and dna strand breaks (comet assay).
+there was a >75% reduction in cellular glutathione and cysteine with drug but not drug.
+drug and drug show additive effects in vitro but not in vivo in human a375 melanoma cells.
+drug enhances drug-mediated antibody-dependent cellular cytotoxicity by up-regulation of cell surface her2 expression.
+although it was previously reported that drug combined with drug improved the progression-free survival rate compared with drug alone for patients with drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+although it was previously reported that drug combined with other drug improved the progression-free survival rate compared with drug alone for patients with other drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+although it was previously reported that drug combined with other drug improved the progression-free survival rate compared with drug alone for patients with other drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+although it was previously reported that other drug combined with drug improved the progression-free survival rate compared with other drug alone for patients with drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+although it was previously reported that other drug combined with drug improved the progression-free survival rate compared with other drug alone for patients with drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+although it was previously reported that other drug combined with other drug improved the progression-free survival rate compared with other drug alone for patients with other drug-refractory her2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.
+we evaluated how drug interacts with drug in her2-positive breast cancer, with a particular focus on drug-mediated antibody-dependent cellular cytotoxicity (adcc).
+we evaluated how drug interacts with other drug in her2-positive breast cancer, with a particular focus on other drug-mediated antibody-dependent cellular cytotoxicity (adcc).
+we evaluated how other drug interacts with drug in her2-positive breast cancer, with a particular focus on drug-mediated antibody-dependent cellular cytotoxicity (adcc).
+in an in vitro assay, drug induced her2 expression at the cell surface of her2-positive breast cancer cell lines, leading to the enhancement of drug-mediated adcc.
+furthermore, we present a case report in which a second drug treatment following drug resulted in the marked shrinkage of multiple metastatic tumors in her2-positive breast cancer.
+drug may have the potential to convert drug-refractory to drug-sensitive tumors in her2-positive breast cancer by up-regulation of the cell surface expression of her2.
+drug may have the potential to convert other drug-refractory to other drug-sensitive tumors in her2-positive breast cancer by up-regulation of the cell surface expression of her2.
+other drug may have the potential to convert drug-refractory to drug-sensitive tumors in her2-positive breast cancer by up-regulation of the cell surface expression of her2.
+the aim of the present study was to investigate whether hb-egf is a therapeutic target for t-all, and to further elucidate the antitumor effects of a specific inhibitor of hb-egf, drug (drug).
+we elucidated the expression of hb-egf in t-all cell lines, and evaluated the effect of drug on these cells alone or in combination with drug.
+drug induced apoptosis, and furthermore, the combination of drug plus other drug enhanced cytotoxicity in a t-all cell line.
+drug induced apoptosis, and furthermore, the combination of drug plus drug enhanced cytotoxicity in a t-all cell line.
+other drug induced apoptosis, and furthermore, the combination of other drug plus drug enhanced cytotoxicity in a t-all cell line.
+drug enhances the antinociceptive effect of drug in mice.
+the purpose of this study was to evaluate whether the psychostimulant drug drug has any effect on drug-induced antinociception and locomotor inhibitor activity in mice in acute application.
+saline + saline, drug (10   mg/kg) + saline, saline + drug (15     g/kg) and drug (10   mg/kg) + drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+saline + saline, drug (10   mg/kg) + saline, saline + other drug (15     g/kg) and drug (10   mg/kg) + other drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+saline + saline, drug (10   mg/kg) + saline, saline + other drug (15     g/kg) and drug (10   mg/kg) + other drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+saline + saline, other drug (10   mg/kg) + saline, saline + drug (15     g/kg) and other drug (10   mg/kg) + drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+saline + saline, other drug (10   mg/kg) + saline, saline + drug (15     g/kg) and other drug (10   mg/kg) + drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+saline + saline, other drug (10   mg/kg) + saline, saline + other drug (15     g/kg) and other drug (10   mg/kg) + other drug (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.
+in the hot plate test in mice, co-administration of 15     g/kg drug with 10   mg/kg drug intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by drug.
+in the hot plate test in mice, co-administration of 15     g/kg drug with 10   mg/kg other drug intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by drug.
+in the hot plate test in mice, co-administration of 15     g/kg other drug with 10   mg/kg drug intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by other drug.
+at the same time, the locomotor inhibitory effect of drug was counteracted by drug.
+we concluded that the combined administration of drug with drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of drug as an other drug in humans.
+we concluded that the combined administration of drug with other drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of drug as an other drug in humans.
+we concluded that the combined administration of drug with other drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of drug as an drug in humans.
+we concluded that the combined administration of other drug with drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of other drug as an other drug in humans.
+we concluded that the combined administration of other drug with drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of other drug as an drug in humans.
+we concluded that the combined administration of other drug with other drug may have beneficial effects in the treatment of pain without causing sedation, which limits the use of other drug as an drug in humans.
+[efficacy of fixed combination drug/drug in hospitalized patients with hypertensive disease]
+efficacy and tolerability of fixed drug/drug combination was studied in 86 patients with hypertensive disease hospitalized in departments of general internal medicine or cardiology.
+all patients had indications for antihypertensive therapy and were randomized either to fixed combination drug/drug (n=43) or to therapy which corresponded to the hospital formulary (n=43).
+rate of achievement of target bp with fixed combination drug/drug (93%) was comparable with that on traditional therapy (90%).
+but the use of fixed combination drug/drug compared with traditional therapy was associated with lower clinical and self measured bp, quicker achievement of target bp (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of other drug (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05).
+but the use of fixed combination drug/other drug compared with traditional therapy was associated with lower clinical and self measured bp, quicker achievement of target bp (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of drug (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05).
+but the use of fixed combination other drug/drug compared with traditional therapy was associated with lower clinical and self measured bp, quicker achievement of target bp (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of drug (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05).
+we have demonstrated appropriateness of inhospital administration of fixed drug/drug combination as an approach allowing to achieve target bp in shorter time, with the use of fewer other drug, and diminishing concealed inefficacy of treatment.
+we have demonstrated appropriateness of inhospital administration of fixed drug/other drug combination as an approach allowing to achieve target bp in shorter time, with the use of fewer drug, and diminishing concealed inefficacy of treatment.
+we have demonstrated appropriateness of inhospital administration of fixed other drug/drug combination as an approach allowing to achieve target bp in shorter time, with the use of fewer drug, and diminishing concealed inefficacy of treatment.
+drug (drug)--better than other drug (other drug)
+drug (other drug)--better than drug (other drug)
+drug (other drug)--better than other drug (drug)
+other drug (drug)--better than drug (other drug)
+other drug (drug)--better than other drug (drug)
+other drug (other drug)--better than drug (drug)
+the fda has approved drug (drug-astrazeneca), an oral other drug, for use with low-dose other drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+the fda has approved drug (other drug-astrazeneca), an oral drug, for use with low-dose other drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+the fda has approved drug (other drug-astrazeneca), an oral other drug, for use with low-dose drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+the fda has approved other drug (drug-astrazeneca), an oral drug, for use with low-dose other drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+the fda has approved other drug (drug-astrazeneca), an oral other drug, for use with low-dose drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+the fda has approved other drug (other drug-astrazeneca), an oral drug, for use with low-dose drug to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (acs).
+it will compete with drug (drug) and other drug (other drug) for such use.
+it will compete with drug (other drug) and drug (other drug) for such use.
+it will compete with drug (other drug) and other drug (drug) for such use.
+it will compete with other drug (drug) and drug (other drug) for such use.
+it will compete with other drug (drug) and other drug (drug) for such use.
+it will compete with other drug (other drug) and drug (drug) for such use.
+influence of drug on drug induced antinociception and its pharmacokinetics.
+in the present study drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of drug evaluated by both other drug writhing and formalin test, when it was administered with drug.
+in the present study drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of other drug evaluated by both drug writhing and formalin test, when it was administered with other drug.
+in the present study drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of other drug evaluated by both other drug writhing and formalin test, when it was administered with other drug.
+in the present study other drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of drug evaluated by both drug writhing and formalin test, when it was administered with drug.
+in the present study other drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of drug evaluated by both other drug writhing and formalin test, when it was administered with drug.
+in the present study other drug (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of other drug evaluated by both drug writhing and formalin test, when it was administered with other drug.
+drug plasma concentration was also increased when it was administered with drug.
+the synergistic antinociception activity of drug when administered with drug can be attributed to increased plasma concentration of drug.
+the synergistic antinociception activity of drug when administered with other drug can be attributed to increased plasma concentration of drug.
+the synergistic antinociception activity of other drug when administered with drug can be attributed to increased plasma concentration of other drug.
+from this study it can be concluded that drug can be used as a bioenhancer along with drug.
