@@ -23,6 +23,7 @@ from tensorflow.contrib.metrics import streaming_precision
 
 import load_data
 
+#我在这里做了一点小小的更改，别介意哈。
 
 def f1_score1(y_true, y_pred):
     num_tp = K.sum(y_true * y_pred)

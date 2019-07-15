@@ -1,0 +1,1 @@
+Jimmy_DDIE_Test_Data_Processed和Jimmy_DDIE_Train_Data_Processed分别是测试集合训练集，load_data是数据预处理过程，Loco_1.0是模型主体。
